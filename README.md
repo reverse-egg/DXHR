@@ -1,3 +1,5 @@
+![Screenshot of my mod menu](https://github.com/reverse-egg/DXHR/blob/main/DXHRMenu.png)
+
 # DXHR
 
 This is a mod I made utilizing RTTI embedded in Deus Ex: Human Revolution. I wrote ~1,000 lines of C++ for the dll that gets injected into the game and about 100 lines of Python to use as the UI via IPC to send commands to the dll.
